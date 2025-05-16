@@ -1,0 +1,28 @@
+<transcript>
+    <transcriptDetailId>trans1</transcriptDetailId>
+    <studentId>stu1</studentId>
+    <termId>term1</termId>
+    <courseDetailId>course1</courseDetailId>
+    <grade>A</grade>
+</transcript>-
+<transcript>
+    <transcriptDetailId>trans2</transcriptDetailId>
+    <studentId>stu1</studentId>
+    <termId>term1</termId>
+    <courseDetailId>course3</courseDetailId>
+    <grade>B</grade>
+</transcript>-
+<transcript>
+    <transcriptDetailId>trans3</transcriptDetailId>
+    <studentId>stu2</studentId>
+    <termId>term2</termId>
+    <courseDetailId>course2</courseDetailId>
+    <grade>AB</grade>
+</transcript>-
+<transcript>
+    <transcriptDetailId>trans4</transcriptDetailId>
+    <studentId>stu2</studentId>
+    <termId>term2</termId>
+    <courseDetailId>course3</courseDetailId>
+    <grade>C</grade>
+</transcript>

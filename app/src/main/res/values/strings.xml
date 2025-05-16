@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 4 App</string>
+
+    <!-- StudentOverviewFragment -->
+    <string name="select_student_prompt">Select a student</string>
+    <string name="gpa_label">GPA: 0.0</string>
+
+    <!-- TermDetailFragment -->
+    <string name="term_summary">Term Summary</string>
+    <string name="add_class">Add Class</string>
+
+    <!-- AddClassFragment -->
+    <string name="student_label">Student:</string>
+    <string name="term_label">Term:</string>
+    <string name="course_label">Course:</string>
+    <string name="grade_label">Grade:</string>
+    <string name="add_class_button">Add Class</string>
+</resources>

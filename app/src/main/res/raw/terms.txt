@@ -1,0 +1,10 @@
+<term>
+    <termId>term1</termId>
+    <name>Fall 2023</name>
+    <startDate>09012023</startDate>
+</term>-
+<term>
+    <termId>term2</termId>
+    <name>Spring 2024</name>
+    <startDate>01052024</startDate>
+</term>

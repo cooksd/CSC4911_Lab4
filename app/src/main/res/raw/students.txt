@@ -1,0 +1,12 @@
+<student>
+    <studentId>stu1</studentId>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <firstTermId>term1</firstTermId>
+</student>-
+<student>
+    <studentId>stu2</studentId>
+    <firstName>Jane</firstName>
+    <lastName>Smith</lastName>
+    <firstTermId>term2</firstTermId>
+</student>
